@@ -1,6 +1,6 @@
 <===================>
 
-This is cs-dan.
+This is cs-dan.\n
 I mainly do c++ and python. Some kotlin and javascript on the side.
 At the moment, only familiar with data structures, memory management, some algorithms, and some graphical libraries. 
 Better with debugging and troubleshooting. 
