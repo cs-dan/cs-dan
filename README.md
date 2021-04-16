@@ -1,4 +1,5 @@
 <===================>
+
 This is cs-dan.
 I mainly do c++ and python. Some kotlin and javascript on the side.
 At the moment, only familiar with data structures, memory management, some algorithms, and some graphical libraries. 
@@ -26,6 +27,7 @@ Mechanical Engineering
 Physics 
 
 <===================>
+
 Finished Projects: 
 Memory_Pool (C++) 
 Hash_Map (C++)
